@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on nothing because I am learning
+- 🌱 I’m currently learning Github, Azure Cloud and Python
+- 👯 I’m looking to collaborate on AI project
+- 🤔 I’m looking for help with learning AI skills
